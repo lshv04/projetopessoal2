@@ -12,7 +12,8 @@ Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de tre
 - **HTML5**: Para a marcação semântica do conteúdo.    
 - **CSS3**: Para estilização e layout.  
 - **Icons**: Criação e estilização de ícones.  
-- **Navbar**: Criação de navbar responsiva com menu "Hambúrguer".  
+- **Navbar**: Criação de navbar responsiva com menu "Hambúrguer".
+- **Cards**: Criação e estilização de cards responsivos.  
 - **Footer**: Criação de footer com múltiplos conteúdos diferentes e responsivos.  
 - **Tipografia**: Utilização de diferentes fontes, tamanhos e cores de acordo com a necessidade.  
 - **Modal**: Criação, anexação e configuração de modal, incluindo formulários.  
