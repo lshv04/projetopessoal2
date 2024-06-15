@@ -4,7 +4,7 @@
 
 
 
-# Projeto pessoal #1
+# Projeto pessoal #2
 
 Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de treinar a utilização de componentes do framework Bootstrap, focado principalmente em estilização e configuração de responsividade.
 
